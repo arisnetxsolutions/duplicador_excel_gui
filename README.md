@@ -27,4 +27,4 @@ Puedes instalar las dependencias con el siguiente comando:
 pip install openpyxl
 ```
 ## Crear el ejecutable
-- * python -m PyInstaller --onefile --windowed --icon=fav.ico duplicador_excel_gui.py
+- * python -m PyInstaller --onefile --windowed --icon=fav.ico duplicador_excel_gui_opt.py
